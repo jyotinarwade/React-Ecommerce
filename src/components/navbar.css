@@ -1,0 +1,44 @@
+.slider_section{
+
+   
+    /* background-image: linear-gradient( to top right,rgba(0, 0, 0, 0.808) 70%, rgba(223, 216, 216, 0.842)); */
+    background-image: url("hero-bg.jpg");
+    position:relative;
+    top:0;
+    /* margin-top: 20px; */
+     width:100%;
+
+    height:70%;  
+
+    /* border-radius: 0 0 50% 40%/0 0 100% 100%; 
+     transform: scale(1.5); */
+}
+/* svg{
+    margin-top: 10rem;
+} */
+img{
+    height:40rem;
+
+    width:40rem;
+    margin-top: -25rem;
+  
+}
+.detail-box{
+    margin-top: 5rem;
+    position:relative ;
+    margin-left: -10rem;
+}
+.btn{
+
+    background-color: #17b5dd; /* Green */
+  border: none;
+  color: white;
+  padding: 10px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 1rem;
+  margin-left: 2rem;
+  margin-bottom: 2rem;
+}

@@ -1,0 +1,18 @@
+.secti{
+    /* margin-top: 10rem; */
+    background-image: url("app-bg.png");
+    
+    /* margin-top: 40rem; */
+     width:90rem;
+   
+    height:55rem;  
+    box-sizing: border-box;
+    background-size: cover;
+  background-repeat: no-repeat;
+}
+.get{
+    margin-top: -15rem;
+}
+.mobile{
+    margin-top: 15rem;
+}
